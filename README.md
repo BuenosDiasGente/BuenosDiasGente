@@ -2,7 +2,7 @@
 ## A passionate backend java developer
 
 ### 🎀 My opensource projects:
-- [Animal Shelter TelegramBot](./telegram-Animal-Shelter-Holiday) ✨ The telegram bot of the animal shelter, which helps in the search for the owner and the control of the adoptive parent;
+- [Animal Shelter TelegramBot](https://github.com/BuenosDiasGente/telegram-Animal-Shelter-Holiday) ✨ The telegram bot of the animal shelter, which helps in the search for the owner and the control of the adoptive parent;
 - [A website for placing ads and products](./Shop_ResaleWebApplication) ✨ Implemented functionality for unauthorized and authorized users using Spring Security;
 - [FlightFilter](./FlightFilter) ✨ A module that filters flights with transfers according to various rules.<br>
 ### 🎀 The project is under development:
