@@ -8,6 +8,9 @@
 ### 🎀 The project is under development:
 - [Booking apartments]() ✨ An application with a microservice architecture that implements the functionality of searching and booking apartments, searching for geodata using Yandex maps.
   <br>
+- [Online_furniture_store](https://github.com/BuenosDiasGente/Online_furniture_store) ✨ Layout of the adaptive website "Online furniture store" based on the Figma layout.
+  <br>
+
 
 📫 How to reach me 👉 **morkovka29@yandex.ru**
 
