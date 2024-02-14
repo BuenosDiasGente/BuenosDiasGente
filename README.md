@@ -1,11 +1,11 @@
 # Hi 👋, I'm Yana
 ## A passionate backend java developer
 
-### 🎀 My open source projects:
+### ✅ My open source projects:
 - [Animal Shelter TelegramBot](https://github.com/BuenosDiasGente/telegram-Animal-Shelter-Holiday) ✨ The telegram bot of the animal shelter, which helps in the search for the owner and the control of the adoptive parent;
 - [A website for placing ads and products](https://github.com/BuenosDiasGente/Shop_ResaleWebApplication) ✨ Implemented functionality for unauthorized and authorized users using Spring Security;
 - [FlightFilter](https://github.com/BuenosDiasGente/FlightFilter) ✨ A module that filters flights with transfers according to various rules.<br>
-### 🎀 The project is under development:
+### ✅ The project is under development:
 - [Booking apartments](https://github.com/BuenosDiasGente/booking_apartment_app.git) ✨ An application with a microservice architecture that implements the functionality of searching and booking apartments, searching for geodata using Yandex maps.
   <br>
 - [Online_furniture_store](https://github.com/BuenosDiasGente/Online_furniture_store) ✨ Layout of the adaptive website "Online furniture store" based on the Figma layout.
