@@ -8,7 +8,7 @@
 ### ✅ The project is under development:
 - [Booking apartments](https://github.com/BuenosDiasGente/booking_apartment_app.git) ✨ An application with a microservice architecture that implements the functionality of searching and booking apartments, searching for geodata using Yandex maps.
   <br>
-- [Online_furniture_store](https://github.com/BuenosDiasGente/Online_furniture_store) ✨ Layout of the adaptive website "Online furniture store" based on the Figma layout.
+- [Online_furniture_store](https://github.com/BuenosDiasGente/layout-of-the-furniture-store-s-website.git) ✨ Layout of the adaptive website "Online furniture store" based on the Figma layout.
   <br>
 
 
